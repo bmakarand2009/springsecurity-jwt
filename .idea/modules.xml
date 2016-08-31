@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sprintsecurity-jwt.iml" filepath="$PROJECT_DIR$/.idea/modules/sprintsecurity-jwt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sprintsecurity-jwt_integrationTest.iml" filepath="$PROJECT_DIR$/.idea/modules/sprintsecurity-jwt_integrationTest.iml" group="sprintsecurity-jwt" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sprintsecurity-jwt_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sprintsecurity-jwt_main.iml" group="sprintsecurity-jwt" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sprintsecurity-jwt_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sprintsecurity-jwt_test.iml" group="sprintsecurity-jwt" />
+    </modules>
+  </component>
+</project>
